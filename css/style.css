@@ -432,3 +432,12 @@ Login
 .iq-login-regi .link a:hover { text-decoration: underline !important; }
 .iq-login-regi .form-check-input { margin-top: 10px; }
 .iq-login-regi .iq-login .button { width: auto; }
+
+/* 
+custom css
+
+*/
+.oceanstext{
+  color: #f6f6f6;
+  
+}
