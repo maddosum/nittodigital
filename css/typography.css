@@ -123,14 +123,14 @@ input:hover, input.form-control:hover, input:focus, input.form-control:focus, te
 /*----------------------------------------------------------------------
  Buttons
 -----------------------------------------------------------------------*/
-.button { font-family: 'Poppins', sans-serif; -webkit-border-radius: 90px; -moz-border-radius: 90px; border-radius: 90px; color: #ffffff; cursor: pointer; padding: 8px 30px; font-weight: 400; font-size: 16px; position: relative; display: inline-block; transition: all .5s ease-in-out; transition: all .5s ease-in-out; -moz-transition: all .5s ease-in-out; -ms-transition: all .5s ease-in-out; -o-transition: all .5s ease-in-out; -webkit-transition: all .5s ease-in-out; text-transform: capitalize; background: #06e24a; z-index: 2; position: relative; overflow: hidden; border: 1px solid #06e24a; }
-.button:hover { background: #ffffff; color: #06e24a; border-color: #06e24a; }
+.button { font-family: 'Poppins', sans-serif; -webkit-border-radius: 90px; -moz-border-radius: 90px; border-radius: 90px; color: #ffffff; cursor: pointer; padding: 8px 30px; font-weight: 400; font-size: 16px; position: relative; display: inline-block; transition: all .5s ease-in-out; transition: all .5s ease-in-out; -moz-transition: all .5s ease-in-out; -ms-transition: all .5s ease-in-out; -o-transition: all .5s ease-in-out; -webkit-transition: all .5s ease-in-out; text-transform: capitalize; background: #0077ff; z-index: 2; position: relative; overflow: hidden; border: 1px solid #0077ff; }
+.button:hover { background: #ffffff; color: #0077ff; border-color: #0077ff; }
 
 /*----------------------------------------------------------------------
  List
 -----------------------------------------------------------------------*/
 ul.listing li { position: relative; margin-bottom: 10px; }
-ul.listing li::before { background: #06e24a; height: 13px; width: 13px; content: ""; border-radius: 90px; display: inline-block; line-height: 26px; margin-right: 15px; }
+ul.listing li::before { background: #0077ff; height: 13px; width: 13px; content: ""; border-radius: 90px; display: inline-block; line-height: 26px; margin-right: 15px; }
 
 /*----------------------------------------------------------------------
  Owl Carousel
